@@ -1,0 +1,10 @@
+# IO
+in
+out
+input
+output
+*.in
+*.out
+
+# config
+.gdb_history
